@@ -1,0 +1,11 @@
+{
+  "awardTypes": [
+    "contracts"
+  ],
+  "keywords": [
+    "cybersecurity"
+  ],
+  "minAmount": 1000000,
+  "lookbackDays": 30,
+  "maxItems": 25
+}
