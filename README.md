@@ -32,6 +32,12 @@ See `sample-output.json` for one trimmed record.
 ## Pricing
 Pay per result: **$2.00 per 1,000 awards**, with no subscription. The [Store page](https://apify.com/clearfeedlabs/money-trail-federal-awards) always shows current prices and every optional add-on event.
 
+## Related Clearfeed Labs Actors
+- [Grants.gov Scraper & Grant Finder API: NSF, NIH Fellowships](https://apify.com/clearfeedlabs/grant-fellowship-radar): federal grants and fellowships with deadlines
+- [Congress Voting Record Tracker: Votes, Bills & Cited Flags](https://apify.com/clearfeedlabs/legislator-record-tracker): U.S. House roll-call voting records
+- [Political Ad Spend Tracker: Google Election Ads Spend & Surges](https://apify.com/clearfeedlabs/political-ad-spend-tracker): political ad spend and surges
+- [All Clearfeed Labs Actors](https://apify.com/clearfeedlabs)
+
 ## FAQ
 **Is this data official?** Yes. It comes from the public source named above, and each record links back to it.
 **Do I need a login or proxy?** No. It uses documented public endpoints only.
